@@ -2,3 +2,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/jgauchia?style=flat&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/jgauchia?affiliations=OWNER&style=flat&logo=github)
 ![ViewCount](https://views.whatilearened.today/views/github/jgauchia/jgauchia.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2099)
+

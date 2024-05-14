@@ -9,7 +9,7 @@
 </div>
 
 #
->[!IMPORTANT]
+>[!TIP]
 >- :satellite: I’m currently working on [IceNav-v3](https://github.com/jgauchia/IceNav-v3), please visit [dev branch](https://github.com/jgauchia/IceNav-v3/tree/v.0.1.8_dev) for updates!
 
 #

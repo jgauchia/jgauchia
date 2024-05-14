@@ -7,3 +7,10 @@
 <img src="https://img.shields.io/maintenance/yes/2099" alt="Maintenance" />
 </p>
 </div>
+
+#
+>[!IMPORTANT]
+>- :satellite: I’m currently working on [IceNav-v3](https://github.com/jgauchia/IceNav-v3), please visit [dev branch](https://github.com/jgauchia/IceNav-v3/tree/v.0.1.8_dev) for updates!
+
+#
+

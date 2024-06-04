@@ -1,7 +1,6 @@
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jgauchia)
-
 <div align="center">
 <p>
+<a href="https://www.buymeacoffee.com/jgauchia" target="_blank"><img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" alt="Buy Me A Coffee"></a>
 <img src="https://img.shields.io/twitter/follow/nam3ci?style=flat&logo=x" alt="X  Follow" />
 <img src="https://img.shields.io/github/followers/jgauchia?style=flat&logo=github" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/jgauchia?affiliations=OWNER&style=flat&logo=github" alt="GitHub User's stars" />

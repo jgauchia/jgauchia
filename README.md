@@ -15,6 +15,7 @@
 #
 >[!TIP]
 >- :satellite: I’m currently working on [IceNav-v3](https://github.com/jgauchia/IceNav-v3), please visit [devel branch](https://github.com/jgauchia/IceNav-v3/tree/devel) for updates!
+>- :bulb: If you have any questions, suggestions or ideas, you can leave them in [discussions](https://github.com/jgauchia/IceNav-v3/discussions)
 
 #
 

@@ -1,7 +1,5 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgauchia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgauchia&theme=github_dark&langs_count=8)
 
 <div align="center">
 <p>
@@ -24,5 +22,6 @@
 >- :bulb: If you have any questions, suggestions or ideas, you can leave them in [discussions](https://github.com/jgauchia/IceNav-v3/discussions)
 
 #
+![Jgauchia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgauchia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
 
 

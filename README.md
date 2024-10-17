@@ -1,3 +1,8 @@
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgauchia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgauchia&theme=github_dark&langs_count=8)
+
 <div align="center">
 <p>
 <img src="https://img.shields.io/twitter/follow/nam3ci?style=flat&logo=x" alt="X  Follow" />

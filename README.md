@@ -21,7 +21,11 @@
 >- :exclamation: Please keep in mind [IceNav roadmap](https://github.com/users/jgauchia/projects/3) for new updates.
 >- :bulb: If you have any questions, suggestions or ideas, you can leave them in [discussions](https://github.com/jgauchia/IceNav-v3/discussions)
 
+> [!NOTE]
+> Any help, support, sponsorship, etc... is always welcome :wink:
+
+
 #
-![Jgauchia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgauchia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
+![jgauchia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgauchia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark)
 
 

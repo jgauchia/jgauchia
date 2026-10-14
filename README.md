@@ -24,5 +24,7 @@
 > [!NOTE]
 > Any help, support, sponsorship, etc... is always welcome :wink:
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/chart?repos=jgauchia/icenav-v3&type=date&legend=top-left)](https://www.star-history.com/?repos=jgauchia%2Ficenav-v3&type=date&legend=top-left)
 

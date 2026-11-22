@@ -17,7 +17,7 @@
 
 #
 >[!TIP]
->- :satellite: I’m currently working on [IceNav-v3](https://github.com/jgauchia/IceNav-v3), please visit [devel branch](https://github.com/jgauchia/IceNav-v3/tree/devel) for updates!
+>- :satellite: I’m currently working on [IceNav-v3](https://github.com/jgauchia/IceNav-v3) and [Tile-Generator](https://github.com/jgauchia/Tile-Generator), please visit [devel branch](https://github.com/jgauchia/IceNav-v3/tree/devel) for updates!
 >- :exclamation: Please keep in mind [IceNav roadmap](https://github.com/users/jgauchia/projects/3) for new updates.
 >- :bulb: If you have any questions, suggestions or ideas, you can leave them in [discussions](https://github.com/jgauchia/IceNav-v3/discussions)
 
